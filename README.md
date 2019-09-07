@@ -15,3 +15,5 @@ cd CryptoTickerProject-master/include
 python3 -m PyInstaller TickerCode.spec
 ```
 Desktop executable icon will be created in new directory: `/Downloads/CryptoTickerProject-master/include/dist/`
+
+![screenshot](include/WidgetExample.png)
