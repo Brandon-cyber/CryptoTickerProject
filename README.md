@@ -11,6 +11,7 @@ Simple desktop widget created to learn Python programming language using Pycharm
 
 ```bash
 git clone https://github.com/Brandon-cyber/CryptoTickerProject
-cd CryptoTickerProject
+cd CryptoTickerProject-master/include
 python3 -m PyInstaller TickerCode.spec
 ```
+Desktop executable icon will be created in new directory: `/Downloads/CryptoTickerProject-master/include/dist`
