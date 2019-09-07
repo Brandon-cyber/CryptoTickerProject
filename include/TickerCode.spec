@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['TickerCode.py'],
-             pathex=['/Users/brandonsoukup/Desktop/BTCTicker copy 2/venv/include'],
+             pathex=['/Downloads/CryptoTickerProject-master'],
              binaries=[],
              datas=[],
              hiddenimports=['tkinter'],
@@ -30,7 +30,7 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='btclogo.icns')
+          console=False , icon='btclogo.ico')
 app = BUNDLE(exe,
              name='TickerCode.app',
              icon='btclogo.icns',
