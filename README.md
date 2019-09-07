@@ -3,9 +3,9 @@
 Simple desktop widget created to learn Python programming language using Pycharm and Tkinter. Widget communicates with Binance API in order to retrieve cryptocurrency asset prices upon refreshing individually labeled buttons. Assets currently supported include BTC, QLC, and POWR.
 
 ## Requirements
- -Python3: `brew install python3`
- -Requests: `pip3 install Requests`
- -PyInstaller: `pip3 install PyInstaller`
+ -Python3: `brew install python3`                                                                                                         
+ -Requests: `pip3 install Requests`                                                                                                       
+ -PyInstaller: `pip3 install PyInstaller`                                                                                                 
 
 ## Clone Repository and Install
 
