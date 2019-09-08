@@ -91,5 +91,6 @@ btn3.configure(image=powr_smaller_image, pad=5, compound=RIGHT)
 # Asset API functions upon opening widget
 BTCprice_refresh(), QLCprice_refresh(), POWRprice_refresh()
 
+root.resizable(width=False, height=False)
 root.mainloop()
 
